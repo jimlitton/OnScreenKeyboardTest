@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">OnScreenKeyboardTest</string>
+    <string name="button_start">start</string>
+    <string name="settings_default_keyboard_id">4CC76A3-91B3-4204-BB1B-421BA8FC8438</string>
+    <string name="eng_keyboard_installation">English</string>
+</resources>
